@@ -1,9 +1,12 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# "我"
 
-::github{repo="saicaca/fuwari"}
+[站点主页](https://maode.top).
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### 我的开源项目
+::github{repo="Ma0de/MicroHID"}
+::github{repo="Ma0de/MaodeETN"}
+
+> ### 我喜欢的游戏
+> - [不/存在的你，和我](https://store.steampowered.com/app/2873080)
+> - [SCP:秘密实验室](https://store.steampowered.com/app/700330)
+> - [CS2](https://store.steampowered.com/app/730)

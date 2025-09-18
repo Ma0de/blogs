@@ -1,6 +1,7 @@
 enum I18nKey {
 	home = "home",
 	about = "about",
+	she = "she",
 	archive = "archive",
 	search = "search",
 
