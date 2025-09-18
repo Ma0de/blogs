@@ -46,10 +46,16 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		//LinkPreset.She,
 		{
+			name: "主页",
+			url: "https://maode.top",
+			external: true, 
+		},
+		{
 			name: "GitHub",
 			url: "https://github.com/Ma0de", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
+		
 	],
 };
 
