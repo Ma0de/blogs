@@ -3,6 +3,7 @@
 [站点主页](https://maode.top).
 
 > ### 我的开源项目
+::github{repo="Ma0de/Gal.js"}
 ::github{repo="Ma0de/LiteWindow.js"}
 ::github{repo="Ma0de/MicroHID"}
 ::github{repo="Ma0de/MaodeETN"}
