@@ -77,7 +77,7 @@ pair [你的耳机MAC地址]  # 例如： pair 84:AC:60:49:2A:B3
 
 如图所示：
 
-![[guide/QQ20250921-110645.png]]
+![Image](guide/QQ20250921-110645.png)
 
 一般来说，看到和我差不多的提示，并且伴随`Pairing successful` 都是匹配成功了
 
