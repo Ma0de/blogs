@@ -43,7 +43,7 @@ sudo apt install pulseaudio pulseaudio-module-bluetooth bluez bluez-firmware blu
 sudo reboot
 ```
 
-### 第 2 步：通过蓝牙连接耳机
+### 第二步：通过蓝牙连接耳机
 
 你的树莓派如果是图形化界面，你可以直接快捷的去连接，不过我没有图形化，所以使用终端
 
@@ -91,7 +91,7 @@ connect [你的耳机MAC地址]
 伴随一两个`successful`出现后，就连接成功了
 连接成功后，输入 `exit` 退出蓝牙控制台
 
-### 第 3 步：安装VLC
+### 第三步：安装VLC
 
 首先，依旧：
 
@@ -104,7 +104,7 @@ sudo apt install vlc
 ```
 
 安装完成后，就到了最后一步
-### 第 4 步：上传音乐文件给树莓派
+### 第四步：上传音乐文件给树莓派
 
 如果你SSH连接树莓派的操作系统是Windows，打开PowerShell：
 
