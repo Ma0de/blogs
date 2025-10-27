@@ -3,8 +3,7 @@ title: 树莓派Pi 4B
 published: 2025-09-19
 description: 树莓派Pi 4B的研究与纪录
 image: "guide/raspberrypi4b.webp"
-tags:
-  - 树莓派，开发板
+tags: ["树莓派"]
 category: 树莓派
 draft: false
 lang: zh_CN

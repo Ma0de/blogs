@@ -3,8 +3,7 @@ title: 如何用树莓派4B连接蓝牙耳机听mp3音乐
 published: 2025-09-21
 description: 教你如何用树莓派4B连接蓝牙耳机听mp3音乐
 image: "guide/QQ20250921-113135.png"
-tags:
-  - 树莓派，蓝牙
+tags: ["树莓派", "蓝牙"]
 category: 树莓派
 draft: false
 lang: zh_CN
