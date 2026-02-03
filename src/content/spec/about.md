@@ -2,15 +2,13 @@
 
 [站点主页](https://maode.top).
 
-> ### 我的开源项目
+> ### 我的小型开源项目
 ::github{repo="Ma0de/Gal.js"}
 ::github{repo="Ma0de/LiteWindow.js"}
-::github{repo="Ma0de/MicroHID"}
-::github{repo="Ma0de/MaodeETN"}
 
-> ### 我喜欢的游戏
-> - [不/存在的你，和我](https://store.steampowered.com/app/2873080)
-> - [SCP:秘密实验室](https://store.steampowered.com/app/700330)
-> - [CS2](https://store.steampowered.com/app/730)
+> ### 我的站点
+> - [主站 maode.top](https://maode.top)
+> - [作弊 cheat.maode.top](https://cheat.maode.top)
+> - [博客 blog.maode.top](https://blog.maode.top)
 
-> #### 有彩蛋
+> #### 
